@@ -5,9 +5,9 @@
 ### oai-ara-services
 
 ---
-Author:\tRolf Anderson
+Author:    Rolf Anderson
 
-Created:\tDecember 12, 2024
+Created:   December 12, 2024
 
 ---
 
