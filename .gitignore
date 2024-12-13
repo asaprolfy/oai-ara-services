@@ -4,3 +4,5 @@
 # macos explorer meta file
 .DS_Store
 
+# python virtualenv
+venv
