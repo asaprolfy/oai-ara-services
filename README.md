@@ -4,6 +4,13 @@
 # OpenAirInterface (OAI) Services for ARA Testbed
 ### oai-ara-services
 
+---
+Author:\tRolf Anderson
+
+Created:\tDecember 12, 2024
+
+---
+
 ## Description
 
 This repository contains scripts, configuration file, and Dockerfiles for
