@@ -1,10 +1,8 @@
+[_metadata_:author]:- "Rolf Anderson (rolf@iastate.edu)"
+[_metadata_:date]:- "December 12, 2024"
+
 # OpenAirInterface (OAI) Services for ARA Testbed
 ### oai-ara-services
-
----
-author: Rolf Anderson
-date: December 12, 2024
----
 
 ## Description
 
