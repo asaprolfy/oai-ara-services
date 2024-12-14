@@ -2,9 +2,9 @@
 # Based on OpenAirInterface gNodeB (gNB) image
 #
 
-FROM arawirelesshub/openairinterface5g:oai_gnb AS oai_gnb
+FROM --platform=linux/amd64 arawirelesshub/openairinterface5g:oai_gnb AS oai_gnb
 
-FROM ubuntu:jammy AS ara_gnb
+FROM --platform=linux/amd64 ubuntu:jammy AS ara_gnb
 
 RUN apt update && apt upgrade -y
 
